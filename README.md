@@ -1,2 +1,2 @@
-# animagames2.0
-site de aprendizagem
+# animagames
+Estudo de JavaScript para Mobile.
